@@ -108,11 +108,7 @@ Contributions are welcome!  Feel free to fork the repository, make your changes,
 
 ## License
 
-[Specify the license you are using, e.g., MIT License]
-
----
-
-**Example License (MIT License):**
+(MIT License)
 
 Copyright (c) [2025] [UMYT]
 
